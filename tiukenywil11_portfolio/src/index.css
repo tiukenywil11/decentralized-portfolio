@@ -4,7 +4,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: 'OpenSans', 'sans-serif';
+	font-family: 300 11px/1.4 'OpenSans', 'sans-serif';
 	color: #000000;
 	background: #ffffff;
 	overflow: hidden;
